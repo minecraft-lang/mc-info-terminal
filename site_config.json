@@ -1,0 +1,7 @@
+{
+  "domain": "https://mc-news-pcl.netlify.app",
+  "title": "MC 新闻 PCL | 我的世界资讯终端",
+  "desc": "PCL 启动器我的世界新闻主页：MC 游戏资讯终端，聚合我的世界更新公告、快照与官方消息，支持联网更新订阅。",
+  "keywords": ["PCL 主页", "我的世界新闻", "MC 游戏资讯", "我的世界更新公告", "Minecraft 新闻", "MC 新闻", "我的世界资讯", "PCL 主页订阅", "我的世界最新消息", "MC 版本更新"],
+  "repo_url": "https://github.com/minecraft-lang/mc-info-terminal"
+}
